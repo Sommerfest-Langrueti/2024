@@ -1,15 +1,14 @@
 ---
 title: "Einladung Sommerfest 2024"
+subtitle: "Wir feiern **die Summe des Lebens – Kommt auch!**"
 author:
   - Inga Laas
   - Nils Ratnaweera
 image: thumbnail.jpg
 date: "2024-05-01"
-categories: [news]
 ---
 
 
-Wir feiern **die Summe des Lebens – Kommt auch!** 
  
 **Datum**: 05. August bis 11. August 2024
 

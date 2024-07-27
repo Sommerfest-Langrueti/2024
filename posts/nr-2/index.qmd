@@ -1,16 +1,15 @@
 ---
 title: "Info #2"
+subtitle: "🎈Das Fest rückt näher! 🎈"
 author:
   - Inga Laas
   - Nils Ratnaweera
 image: thumbnail.jpg
 date: "2024-07-22"
-categories: [news]
 ---
 
 <!-- https://pixabay.com/photos/suitcase-leather-suitcase-3167359/ -->
 
-🎈Das Fest rückt näher! 🎈 
 
 Hier eine Packliste für die Preppies unter euch:
 

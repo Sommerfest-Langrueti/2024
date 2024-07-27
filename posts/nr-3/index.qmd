@@ -1,5 +1,6 @@
 ---
 title: "Info #3"
+subtitle: "🧚🏿‍♂️🦄 Tag für Tag…🦄🧚🏿‍♂"
 author:
   - Inga Laas
   - Nils Ratnaweera
@@ -7,12 +8,11 @@ image: thumbnail.jpg
 image-width: "100px"
 image-height: "100px"
 date: "2024-07-26"
-categories: [news]
 ---
 
 <!-- https://pixabay.com/photos/livestock-animals-sheep-mammals-17482/ -->
 
-🧚🏿‍♂️🦄 Tag für Tag…🦄🧚🏿‍♂
+
   
 Für die Festwoche gibt es Tagsüber 🌞 und Abends 🌙 ein paar Glanzpunkte:   
    

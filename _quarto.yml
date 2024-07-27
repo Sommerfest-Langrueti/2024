@@ -7,7 +7,7 @@ website:
 lang: de-CH
 format:
   html:
-    theme: lumen
+    theme: sketchy #quartz #minty # lumen, 
     css: styles.css
 
 
