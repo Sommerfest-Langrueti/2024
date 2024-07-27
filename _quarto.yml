@@ -1,0 +1,14 @@
+project:
+  type: website
+
+website:
+  title: "Sommerfest 2024"
+
+lang: de-CH
+format:
+  html:
+    theme: lumen
+    css: styles.css
+
+
+
